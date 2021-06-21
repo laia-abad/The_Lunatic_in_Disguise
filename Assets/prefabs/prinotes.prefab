@@ -1,0 +1,241 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &670516036211569228
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 670516036211569227}
+  - component: {fileID: 670516036211569223}
+  - component: {fileID: 670516036211569224}
+  - component: {fileID: 670516036211569225}
+  - component: {fileID: 670516036211569226}
+  m_Layer: 5
+  m_Name: prinotes
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &670516036211569227
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 670516036211569228}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 0, y: 0, z: 0}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 0, y: 0}
+  m_Pivot: {x: 0, y: 0}
+--- !u!223 &670516036211569223
+Canvas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 670516036211569228}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_RenderMode: 0
+  m_Camera: {fileID: 0}
+  m_PlaneDistance: 100
+  m_PixelPerfect: 0
+  m_ReceivesEvents: 1
+  m_OverrideSorting: 0
+  m_OverridePixelPerfect: 0
+  m_SortingBucketNormalizedSize: 0
+  m_AdditionalShaderChannelsFlag: 0
+  m_SortingLayerID: 0
+  m_SortingOrder: 0
+  m_TargetDisplay: 0
+--- !u!114 &670516036211569224
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 670516036211569228}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0cd44c1031e13a943bb63640046fad76, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_UiScaleMode: 0
+  m_ReferencePixelsPerUnit: 100
+  m_ScaleFactor: 1
+  m_ReferenceResolution: {x: 800, y: 600}
+  m_ScreenMatchMode: 0
+  m_MatchWidthOrHeight: 0
+  m_PhysicalUnit: 3
+  m_FallbackScreenDPI: 96
+  m_DefaultSpriteDPI: 96
+  m_DynamicPixelsPerUnit: 1
+--- !u!114 &670516036211569225
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 670516036211569228}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dc42784cf147c0c48a680349fa168899, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_IgnoreReversedGraphics: 1
+  m_BlockingObjects: 0
+  m_BlockingMask:
+    serializedVersion: 2
+    m_Bits: 4294967295
+--- !u!114 &670516036211569226
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 670516036211569228}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 45a85cc5ffb89ae479ba29a78c7c5c98, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  deteobj: {fileID: 0}
+  detobj: {fileID: 0}
+  deteobj2: {fileID: 0}
+  detobj2: {fileID: 0}
+  deteobj3: {fileID: 0}
+  detobj3: {fileID: 0}
+  deteobj4: {fileID: 0}
+  detobj4: {fileID: 0}
+  deteobj5: {fileID: 0}
+  detobj5: {fileID: 0}
+  deteobj6: {fileID: 0}
+  detobj6: {fileID: 0}
+  deteobj7: {fileID: 0}
+  detobj7: {fileID: 0}
+  deteobj8: {fileID: 0}
+  detobj8: {fileID: 0}
+  deteobj9: {fileID: 0}
+  detobj9: {fileID: 0}
+  deteobj10: {fileID: 0}
+  detobj10: {fileID: 0}
+  var102: 0
+  var107: 0
+  var108: 0
+  var406: 0
+  var104: 0
+  var105: 0
+  var122: 0
+  var123: 0
+  var125: 0
+  var121: 0
+  var120: 0
+  var124: 0
+  var207: 0
+  var411: 0
+  var206: 0
+  var201: 0
+  var204: 0
+  var205: 0
+  var208: 0
+  var220: 0
+  var221: 0
+  var222: 0
+  var223: 0
+  var301: 0
+  var407: 0
+  var101: 0
+  var302: 0
+  var303: 0
+  var320: 0
+  var416: 0
+  var401: 0
+  var402: 0
+  var415: 0
+  var409: 0
+  var405: 0
+  var414: 0
+  var413: 0
+  var412: 0
+  var403: 0
+  var404: 0
+  var408: 0
+  var410: 0
+  var422: 0
+  var423: 0
+  var420: 0
+  var421: 0
+  var424: 0
+  var425: 0
+  var106: 0
+  var501: 0
+  var503: 0
+  var504: 0
+  var502: 0
+  var523: 0
+  var521: 0
+  var520: 0
+  var553: 0
+  var552: 0
+  var550: 0
+  var451: 0
+  var150: 0
+  var452: 0
+  var251: 0
+  var351: 0
+  var354: 0
+  var551: 0
+  var156: 0
+  var155: 0
+  var153: 0
+  var151: 0
+  var154: 0
+  var209: 0
+  var254: 0
+  var250: 0
+  var253: 0
+  var304: 0
+  var300: 0
+  var323: 0
+  var321: 0
+  var322: 0
+  var352: 0
+  var353: 0
+  var450: 0
+  var453: 0
+  var505: 0
+  var507: 0
+  var524: 0
+  var522: 0
+  contr1: 0
+  contr2: 0
+  contr3: 0
+  contr4: 0
+  contr5: 0
+  contr6: 0
+  contr7: 0
+  contr8: 0
+  contr9: 0
+  contr10: 0
+  contr11: 0
+  contr12: 0
+  contr13: 0
+  contr14: 0
+  contr15: 0
+  contr16: 0
+  contr17: 0
+  contr18: 0
+  contr19: 0
+  contr20: 0

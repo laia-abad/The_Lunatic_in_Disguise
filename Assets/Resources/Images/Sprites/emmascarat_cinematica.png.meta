@@ -1,0 +1,1184 @@
+fileFormatVersion: 2
+guid: 2bc3d44621cf04cdca7e97d21940f56a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3788273908550533378
+    second: emmascarat_cinematica_0
+  - first:
+      213: -3179206294969470823
+    second: emmascarat_cinematica_1
+  - first:
+      213: -4641290199497059970
+    second: emmascarat_cinematica_2
+  - first:
+      213: -8786290875361950047
+    second: emmascarat_cinematica_3
+  - first:
+      213: -3965336084472389211
+    second: emmascarat_cinematica_4
+  - first:
+      213: -1359363895968877114
+    second: emmascarat_cinematica_5
+  - first:
+      213: 1654524318703284328
+    second: emmascarat_cinematica_6
+  - first:
+      213: -989187993966335549
+    second: emmascarat_cinematica_7
+  - first:
+      213: -5919232145496878785
+    second: emmascarat_cinematica_8
+  - first:
+      213: -6630666907094131198
+    second: emmascarat_cinematica_9
+  - first:
+      213: 207195733559175849
+    second: emmascarat_cinematica_10
+  - first:
+      213: -8138077829193010292
+    second: emmascarat_cinematica_11
+  - first:
+      213: 5791001253373302684
+    second: emmascarat_cinematica_12
+  - first:
+      213: 2932486638435508787
+    second: emmascarat_cinematica_13
+  - first:
+      213: -3104379812833831625
+    second: emmascarat_cinematica_14
+  - first:
+      213: -1115497512200420505
+    second: emmascarat_cinematica_15
+  - first:
+      213: -5686145592716574506
+    second: emmascarat_cinematica_16
+  - first:
+      213: -8876721734348533005
+    second: emmascarat_cinematica_17
+  - first:
+      213: 6288871711506774956
+    second: emmascarat_cinematica_18
+  - first:
+      213: 2960330191057487829
+    second: emmascarat_cinematica_19
+  - first:
+      213: 8313887297036982666
+    second: emmascarat_cinematica_20
+  - first:
+      213: 6793191521547588221
+    second: emmascarat_cinematica_21
+  - first:
+      213: -5590760224744796288
+    second: emmascarat_cinematica_22
+  - first:
+      213: 9129965369008193792
+    second: emmascarat_cinematica_23
+  - first:
+      213: 5109244408195967081
+    second: emmascarat_cinematica_24
+  - first:
+      213: -7144333479081139898
+    second: emmascarat_cinematica_25
+  - first:
+      213: -1020020938903903925
+    second: emmascarat_cinematica_26
+  - first:
+      213: 8238179841653434723
+    second: emmascarat_cinematica_27
+  - first:
+      213: 6366818261203817235
+    second: emmascarat_cinematica_28
+  - first:
+      213: 7188172539604519177
+    second: emmascarat_cinematica_29
+  - first:
+      213: -3185192052725474322
+    second: emmascarat_cinematica_30
+  - first:
+      213: -4141243445060687404
+    second: emmascarat_cinematica_31
+  - first:
+      213: 4881371865752453715
+    second: emmascarat_cinematica_32
+  - first:
+      213: 3035455493247429520
+    second: emmascarat_cinematica_33
+  - first:
+      213: -2893335060443637944
+    second: emmascarat_cinematica_34
+  - first:
+      213: 4530975422721726928
+    second: emmascarat_cinematica_35
+  - first:
+      213: 4646931418077850655
+    second: emmascarat_cinematica_36
+  - first:
+      213: 4204435037269152193
+    second: emmascarat_cinematica_37
+  - first:
+      213: 6466166051146897240
+    second: emmascarat_cinematica_38
+  - first:
+      213: 897165948633944481
+    second: emmascarat_cinematica_39
+  - first:
+      213: 288305391416362161
+    second: emmascarat_cinematica_40
+  - first:
+      213: -7781983245627195256
+    second: emmascarat_cinematica_41
+  - first:
+      213: -8858717653008899697
+    second: emmascarat_cinematica_42
+  - first:
+      213: -3587596787322073137
+    second: emmascarat_cinematica_43
+  - first:
+      213: 2930634011529418690
+    second: emmascarat_cinematica_44
+  - first:
+      213: -4798056719287999444
+    second: emmascarat_cinematica_45
+  - first:
+      213: 3498206259239006976
+    second: emmascarat_cinematica_46
+  - first:
+      213: -4504756615838172787
+    second: emmascarat_cinematica_47
+  - first:
+      213: -1065973930036263923
+    second: emmascarat_cinematica_48
+  - first:
+      213: 5620154743035995984
+    second: emmascarat_cinematica_49
+  - first:
+      213: -5726533785356012107
+    second: emmascarat_cinematica_50
+  - first:
+      213: 2732156744999299305
+    second: emmascarat_cinematica_51
+  - first:
+      213: 2683727135400941983
+    second: emmascarat_cinematica_52
+  - first:
+      213: 3206516872974772021
+    second: emmascarat_cinematica_53
+  - first:
+      213: -2356607826971252550
+    second: emmascarat_cinematica_54
+  - first:
+      213: 8441897271627328666
+    second: emmascarat_cinematica_55
+  - first:
+      213: 5616714047850837561
+    second: emmascarat_cinematica_56
+  - first:
+      213: 8098689416787316396
+    second: emmascarat_cinematica_57
+  - first:
+      213: -5617279562245374727
+    second: emmascarat_cinematica_58
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 21
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: emmascarat_cinematica_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 369
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20109077c07a29430800000000000000
+      internalID: 3788273908550533378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emmascarat_cinematica_1
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 0
+        width: 369
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 990b8a808b031e3d0800000000000000
+      internalID: -3179206294969470823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emmascarat_cinematica_2
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 0
+        width: 369
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e71d9777723d69fb0800000000000000
+      internalID: -4641290199497059970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emmascarat_cinematica_3
+      rect:
+        serializedVersion: 2
+        x: 1107
+        y: 0
+        width: 369
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a68bc82003d01680800000000000000
+      internalID: -8786290875361950047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emmascarat_cinematica_4
+      rect:
+        serializedVersion: 2
+        x: 1476
+        y: 0
+        width: 369
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a12cf527db48f8c0800000000000000
+      internalID: -3965336084472389211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emmascarat_cinematica_5
+      rect:
+        serializedVersion: 2
+        x: 1845
+        y: 0
+        width: 369
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c5b8442db1922de0800000000000000
+      internalID: -1359363895968877114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emmascarat_cinematica_6
+      rect:
+        serializedVersion: 2
+        x: 2214
+        y: 0
+        width: 369
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 860fd801a1d06f610800000000000000
+      internalID: 1654524318703284328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emmascarat_cinematica_7
+      rect:
+        serializedVersion: 2
+        x: 2583
+        y: 0
+        width: 369
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c92e8ba2c2b542f0800000000000000
+      internalID: -989187993966335549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emmascarat_cinematica_8
+      rect:
+        serializedVersion: 2
+        x: 2952
+        y: 0
+        width: 369
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f31d590a9b9aadda0800000000000000
+      internalID: -5919232145496878785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emmascarat_cinematica_9
+      rect:
+        serializedVersion: 2
+        x: 3321
+        y: 0
+        width: 369
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20e57ba24932bf3a0800000000000000
+      internalID: -6630666907094131198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emmascarat_cinematica_10
+      rect:
+        serializedVersion: 2
+        x: 3690
+        y: 0
+        width: 369
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aa65c10c6b10e200800000000000000
+      internalID: 207195733559175849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emmascarat_cinematica_11
+      rect:
+        serializedVersion: 2
+        x: 4059
+        y: 0
+        width: 369
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c83f77ce45dbf0f80800000000000000
+      internalID: -8138077829193010292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emmascarat_cinematica_12
+      rect:
+        serializedVersion: 2
+        x: 4428
+        y: 0
+        width: 369
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c97582935f4cd5050800000000000000
+      internalID: 5791001253373302684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emmascarat_cinematica_13
+      rect:
+        serializedVersion: 2
+        x: 4797
+        y: 0
+        width: 369
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33227888f0942b820800000000000000
+      internalID: 2932486638435508787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emmascarat_cinematica_14
+      rect:
+        serializedVersion: 2
+        x: 5166
+        y: 0
+        width: 369
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 735552802070be4d0800000000000000
+      internalID: -3104379812833831625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emmascarat_cinematica_15
+      rect:
+        serializedVersion: 2
+        x: 5535
+        y: 0
+        width: 369
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 763467d3ce4f480f0800000000000000
+      internalID: -1115497512200420505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emmascarat_cinematica_16
+      rect:
+        serializedVersion: 2
+        x: 5904
+        y: 0
+        width: 369
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d0c9fcb5b0c611b0800000000000000
+      internalID: -5686145592716574506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emmascarat_cinematica_17
+      rect:
+        serializedVersion: 2
+        x: 6273
+        y: 0
+        width: 369
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f29a2e0d9c8fc480800000000000000
+      internalID: -8876721734348533005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emmascarat_cinematica_18
+      rect:
+        serializedVersion: 2
+        x: 6642
+        y: 0
+        width: 369
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cab3d52708f864750800000000000000
+      internalID: 6288871711506774956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emmascarat_cinematica_19
+      rect:
+        serializedVersion: 2
+        x: 7011
+        y: 0
+        width: 369
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d788dfcf94351920800000000000000
+      internalID: 2960330191057487829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emmascarat_cinematica_20
+      rect:
+        serializedVersion: 2
+        x: 7380
+        y: 0
+        width: 369
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a899582a27cd06370800000000000000
+      internalID: 8313887297036982666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emmascarat_cinematica_21
+      rect:
+        serializedVersion: 2
+        x: 7749
+        y: 0
+        width: 369
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d721a0d62b3464e50800000000000000
+      internalID: 6793191521547588221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emmascarat_cinematica_22
+      rect:
+        serializedVersion: 2
+        x: 8118
+        y: 0
+        width: 369
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08f04bb5231a962b0800000000000000
+      internalID: -5590760224744796288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emmascarat_cinematica_23
+      rect:
+        serializedVersion: 2
+        x: 8487
+        y: 0
+        width: 369
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0010a57612724be70800000000000000
+      internalID: 9129965369008193792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emmascarat_cinematica_24
+      rect:
+        serializedVersion: 2
+        x: 8856
+        y: 0
+        width: 369
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 968eb2528bea7e640800000000000000
+      internalID: 5109244408195967081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emmascarat_cinematica_25
+      rect:
+        serializedVersion: 2
+        x: 9225
+        y: 0
+        width: 369
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64120769d8a3adc90800000000000000
+      internalID: -7144333479081139898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emmascarat_cinematica_26
+      rect:
+        serializedVersion: 2
+        x: 9594
+        y: 0
+        width: 369
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b412c214c5828d1f0800000000000000
+      internalID: -1020020938903903925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emmascarat_cinematica_27
+      rect:
+        serializedVersion: 2
+        x: 9963
+        y: 0
+        width: 369
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36969811be4e35270800000000000000
+      internalID: 8238179841653434723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emmascarat_cinematica_28
+      rect:
+        serializedVersion: 2
+        x: 10332
+        y: 0
+        width: 369
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3131688c97b7b5850800000000000000
+      internalID: 6366818261203817235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emmascarat_cinematica_29
+      rect:
+        serializedVersion: 2
+        x: 10701
+        y: 0
+        width: 369
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 909485717d481c360800000000000000
+      internalID: 7188172539604519177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emmascarat_cinematica_30
+      rect:
+        serializedVersion: 2
+        x: 11070
+        y: 0
+        width: 369
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeb96e334bcebc3d0800000000000000
+      internalID: -3185192052725474322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emmascarat_cinematica_31
+      rect:
+        serializedVersion: 2
+        x: 11439
+        y: 0
+        width: 369
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d92eb827095786c0800000000000000
+      internalID: -4141243445060687404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emmascarat_cinematica_32
+      rect:
+        serializedVersion: 2
+        x: 11808
+        y: 0
+        width: 369
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 352c2ca69dd1eb340800000000000000
+      internalID: 4881371865752453715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emmascarat_cinematica_33
+      rect:
+        serializedVersion: 2
+        x: 12177
+        y: 0
+        width: 369
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09b658640ba102a20800000000000000
+      internalID: 3035455493247429520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emmascarat_cinematica_34
+      rect:
+        serializedVersion: 2
+        x: 12546
+        y: 0
+        width: 369
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 847d212971fc8d7d0800000000000000
+      internalID: -2893335060443637944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emmascarat_cinematica_35
+      rect:
+        serializedVersion: 2
+        x: 12915
+        y: 0
+        width: 369
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d99a5d042241ee30800000000000000
+      internalID: 4530975422721726928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emmascarat_cinematica_36
+      rect:
+        serializedVersion: 2
+        x: 13284
+        y: 0
+        width: 369
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1ce12611873d7040800000000000000
+      internalID: 4646931418077850655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emmascarat_cinematica_37
+      rect:
+        serializedVersion: 2
+        x: 13653
+        y: 0
+        width: 369
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c152ade367295a30800000000000000
+      internalID: 4204435037269152193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emmascarat_cinematica_38
+      rect:
+        serializedVersion: 2
+        x: 14022
+        y: 0
+        width: 369
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8571d49a3cf6cb950800000000000000
+      internalID: 6466166051146897240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emmascarat_cinematica_39
+      rect:
+        serializedVersion: 2
+        x: 14391
+        y: 0
+        width: 369
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a117e84daf537c00800000000000000
+      internalID: 897165948633944481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emmascarat_cinematica_40
+      rect:
+        serializedVersion: 2
+        x: 14760
+        y: 0
+        width: 369
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b4c33ad934400400800000000000000
+      internalID: 288305391416362161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emmascarat_cinematica_41
+      rect:
+        serializedVersion: 2
+        x: 15129
+        y: 0
+        width: 369
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88089540877d00490800000000000000
+      internalID: -7781983245627195256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emmascarat_cinematica_42
+      rect:
+        serializedVersion: 2
+        x: 15498
+        y: 0
+        width: 369
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f812ce6ea338f0580800000000000000
+      internalID: -8858717653008899697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
